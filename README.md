@@ -1,9 +1,10 @@
 # odin-recipes
 
-will be using the skills i have learnt so far in the odin project
+Using the skills i have learnt so far in the odin project
 
+I have completed the the recipe project using mostly html and a bit of css styling to resize the images.
 
-so far i have added the following: 
+I used anchor tags, unordered lists, ordered lists present the different recipes, their ingredients and the steps needed to make the desired dishes. 
 
-1, homepage with one recipe in a bullet point. i will add more later.
-2, the recipe page, which is a lasagna recipe including the ingredients and steps.
+There are 3 recipes.
+
